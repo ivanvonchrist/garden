@@ -23,3 +23,5 @@ Iteration 5 completes the encounter: Be swallowed enters a second scene with fiv
 Iteration 6 connects the interior and exterior: Transplant saves the organ arrangement for this visit, changes the outer membrane's shape, reveals anatomical anchor lines, and retunes active sound.
 
 Iteration 7 adds a negative sun: summon it to gravitationally distort the outer mesh. Move over the canvas to relocate it, or focus its button and use arrow keys. Dismiss it to restore the undistorted geometry.
+
+Iteration 8: convene the unborn parliament and vote an organ out of existence. Its interior connections disappear, its ghost remains movable, the body's sentence changes, and the exterior membrane develops an organ-specific deformation. Rescind restores all five.
