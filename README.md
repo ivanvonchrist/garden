@@ -13,3 +13,5 @@ Import `ivanvonchrist/garden`, select **Other** as the framework, use `npm run b
 Alternatively: `npx vercel` for a preview and `npx vercel --prod` for production.
 
 Animation is capped at 30 frames per second, stops in hidden tabs, and starts still for reduced-motion visitors. The stillness button pauses it at any time. Audio requires explicit activation. Optional Google Fonts have local fallbacks.
+
+Iteration 3 adds a detachable time organ: scrub a bounded history of 240 states and fossilize up to seven outlines. Fossils remain only for this visit and resize with the viewport.

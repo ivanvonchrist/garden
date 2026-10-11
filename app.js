@@ -17,8 +17,20 @@ function paint(){if(!ctx||!width)return;ctx.fillStyle='#08090e';ctx.fillRect(0,0
  ctx.save();ctx.translate(cx,cy);ctx.globalCompositeOperation='screen';
  for(let rib=0;rib<48;rib++){ctx.beginPath();for(let j=0;j<=100;j++){const a=j/100*Math.PI*2,b=rib/48*Math.PI*2;const fold=Math.sin(a*(3+mode)+b*2+time*.35);const r=radius*(.56+.2*Math.cos(b)+.19*fold);const z=radius*.35*Math.sin(b+a*2+time*.2);let x=r*Math.cos(a),y=r*Math.sin(a);const rot=time*.13+pointer.x*2;const xx=x*Math.cos(rot)-z*Math.sin(rot),zz=x*Math.sin(rot)+z*Math.cos(rot);y=y*Math.cos(pointer.y+time*.07)-zz*Math.sin(pointer.y+time*.07);const warp=mode%2?1+Math.sin(a*5+time)*.2:1;j?ctx.lineTo(xx*warp,y):ctx.moveTo(xx*warp,y);}ctx.strokeStyle=`hsla(${hue+rib*2},70%,${45+rib/2}%,${.13+rib/140})`;ctx.lineWidth=.65;ctx.stroke();}
  for(let i=0;i<18;i++){const a=i*2.399+time*.025,r=radius*(1.1+(i%3)*.12);ctx.fillStyle=`hsla(${hue},40%,70%,.45)`;ctx.font='11px monospace';ctx.fillText(['∴','0','⊙','∵','∞','?'][i%6],Math.cos(a)*r,Math.sin(a)*r);}
- ctx.restore();for(const s of seeds){ctx.strokeStyle=`rgba(214,252,131,${s.life*.6})`;ctx.beginPath();ctx.arc(s.x,s.y,8+(1-s.life)*160,0,Math.PI*2);ctx.stroke();ctx.fillStyle=`rgba(214,252,131,${s.life})`;ctx.font='24px Georgia';ctx.fillText(s.glyph,s.x-8,s.y+8);if(!paused)s.life-=.004;}seeds=seeds.filter(s=>s.life>0);
+ ctx.restore();drawFossils();for(const s of seeds){ctx.strokeStyle=`rgba(214,252,131,${s.life*.6})`;ctx.beginPath();ctx.arc(s.x,s.y,8+(1-s.life)*160,0,Math.PI*2);ctx.stroke();ctx.fillStyle=`rgba(214,252,131,${s.life})`;ctx.font='24px Georgia';ctx.fillText(s.glyph,s.x-8,s.y+8);if(!paused)s.life-=.004;}seeds=seeds.filter(s=>s.life>0);
  for(const p of trails){ctx.fillStyle=`rgba(214,252,131,${p.life*.4})`;ctx.fillRect(p.x,p.y,2,2);if(!paused)p.life-=.03;}trails=trails.filter(p=>p.life>0);
 }
-function loop(t){if(!document.hidden&&!paused&&t-last>33){time+=Math.min((t-last)/1000,.05);last=t;paint();}requestAnimationFrame(loop);}
-addEventListener('resize',resize);resize();requestAnimationFrame(loop);
+function loop(t){if(!document.hidden&&!paused&&!detached&&t-last>33){time+=Math.min((t-last)/1000,.05);last=t;remember(t);paint();}requestAnimationFrame(loop);}
+
+
+let detached=false, memories=[], fossils=[], lastMemory=0;
+function remember(t){if(t-lastMemory<180)return;lastMemory=t;memories.push({time,mode,pointer:{...pointer}});if(memories.length>240)memories.shift();$('age').textContent=`${memories.length} remembered instants`;}
+function fossilPoints(){const points=[];const cx=width*(width<700?.66:.69),cy=height*.49,radius=Math.min(width*.36,height*.42);for(let j=0;j<=180;j++){const a=j/180*Math.PI*2,r=radius*(.56+.2+.19*Math.sin(a*(3+mode)+time*.35)),z=radius*.35*Math.sin(a*2+time*.2),x=r*Math.cos(a),y=r*Math.sin(a),rot=time*.13+pointer.x*2,xx=x*Math.cos(rot)-z*Math.sin(rot),zz=x*Math.sin(rot)+z*Math.cos(rot);points.push([(cx+xx)/width,(cy+y*Math.cos(pointer.y+time*.07)-zz*Math.sin(pointer.y+time*.07))/height]);}return points;}
+function drawFossils(){fossils.forEach((f,i)=>{ctx.strokeStyle=`rgba(236,174,220,${.2+i*.04})`;ctx.setLineDash([2,5]);ctx.beginPath();f.forEach(([x,y],j)=>j?ctx.lineTo(x*width,y*height):ctx.moveTo(x*width,y*height));ctx.stroke();ctx.setLineDash([]);const p=f[0];ctx.fillStyle='#ecaedc';ctx.font='8px monospace';ctx.fillText(`REMAINS OF NOW ${i+1}`,p[0]*width,p[1]*height-8);});}
+$('detach').onclick=()=>{detached=!detached;if(detached){memories.push({time,mode,pointer:{...pointer}});$('history').max=String(memories.length-1);$('history').value=$('history').max;}$('time-controls').hidden=!detached;$('detach').textContent=detached?'Reattach the time organ ⊕':'Detach the time organ ⊗';$('detach').setAttribute('aria-pressed',String(detached));$('transmission').textContent=detached?'The present has been removed. Handle it by its edges.':'Time has returned with something missing.';last=0;paint();};
+$('history').oninput=()=>{const memory=memories[Number($('history').value)];if(!memory)return;time=memory.time;mode=memory.mode;pointer={...memory.pointer};$('law').textContent=`EXHUMED LAW: ${laws[mode]}`;paint();};
+$('fossil').onclick=()=>{fossils.push(fossilPoints());fossils=fossils.slice(-7);$('transmission').textContent='A former present is now haunting the living one.';paint();};
+// Reduced-motion visitors can build a history through intentional interactions.
+const originalFeed=feed;
+$('feed').onclick=()=>{originalFeed();remember(lastMemory+181);};
+addEventListener('resize',resize);resize();remember(181);requestAnimationFrame(loop);
