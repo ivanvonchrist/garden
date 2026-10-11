@@ -21,3 +21,5 @@ Iteration 4: arm the wound tool and drag across the canvas to divide the mesh an
 Iteration 5 completes the encounter: Be swallowed enters a second scene with five draggable organs. Arrow keys move a focused organ; their horizontal order composes the body's belief. Escape or Return exits. Iterations continue every ten minutes until explicitly stopped by the user.
 
 Iteration 6 connects the interior and exterior: Transplant saves the organ arrangement for this visit, changes the outer membrane's shape, reveals anatomical anchor lines, and retunes active sound.
+
+Iteration 7 adds a negative sun: summon it to gravitationally distort the outer mesh. Move over the canvas to relocate it, or focus its button and use arrow keys. Dismiss it to restore the undistorted geometry.
