@@ -18,4 +18,6 @@ Iteration 3 adds a detachable time organ: scrub a bounded history of 240 states 
 
 Iteration 4: arm the wound tool and drag across the canvas to divide the mesh and grow a second mouth. Divide without a hand offers the same ritual via keyboard; Heal reunites the body. Time history now restores divisions as well as geometry.
 
-Iteration 5 completes the encounter: Be swallowed enters a second scene with five draggable organs. Arrow keys move a focused organ; their horizontal order composes the body's belief. Escape or Return exits. The experiment is complete after five iterations; further changes can be requested directly.
+Iteration 5 completes the encounter: Be swallowed enters a second scene with five draggable organs. Arrow keys move a focused organ; their horizontal order composes the body's belief. Escape or Return exits. Iterations continue every ten minutes until explicitly stopped by the user.
+
+Iteration 6 connects the interior and exterior: Transplant saves the organ arrangement for this visit, changes the outer membrane's shape, reveals anatomical anchor lines, and retunes active sound.
