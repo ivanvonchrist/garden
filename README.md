@@ -17,3 +17,5 @@ Animation is capped at 30 frames per second, stops in hidden tabs, and starts st
 Iteration 3 adds a detachable time organ: scrub a bounded history of 240 states and fossilize up to seven outlines. Fossils remain only for this visit and resize with the viewport.
 
 Iteration 4: arm the wound tool and drag across the canvas to divide the mesh and grow a second mouth. Divide without a hand offers the same ritual via keyboard; Heal reunites the body. Time history now restores divisions as well as geometry.
+
+Iteration 5 completes the encounter: Be swallowed enters a second scene with five draggable organs. Arrow keys move a focused organ; their horizontal order composes the body's belief. Escape or Return exits. The experiment is complete after five iterations; further changes can be requested directly.
