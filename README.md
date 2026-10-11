@@ -1,24 +1,15 @@
-# The Unanswered Room
+# Garden / The Mouth of Elsewhere
 
-An interactive cabinet of impossible objects. Six original philosophical fragments accompany a procedural rotating relic. Visitors can surrender a thought to a form that immediately discards it, or awaken a quiet synthesized drone. No accounts, analytics, API keys, or stored personal data.
+A procedural organism occupying a breach in causality. Move your pointer to fold it, click to feed it glyphs, and repeal seven laws of reality to alter its geometry, color, telemetry, and optional synthesized sound. Keyboard users can feed and mutate it using the buttons. Nothing is stored or sent. No dependencies or API keys.
 
 ## Local
 
-Node.js 20 or newer. No packages to install.
+Node.js 20 or newer. Run `npm run dev` and open http://127.0.0.1:3000. Run `npm run build` to generate `dist`.
 
-```sh
-npm run dev
-```
+## Vercel
 
-Open http://127.0.0.1:3000. Build with `npm run build`.
+Import `ivanvonchrist/garden`, select **Other** as the framework, use `npm run build` as the build command and `dist` as the output directory, then deploy. `vercel.json` configures these automatically. No environment variables needed. Connected pushes to main deploy automatically.
 
-## Vercel in a minute
+Alternatively: `npx vercel` for a preview and `npx vercel --prod` for production.
 
-1. In Vercel, choose **Add New → Project** and import `ivanvonchrist/garden` from GitHub.
-2. Use **Other** as the framework preset and leave the root directory at the repository root.
-3. Build command: `npm run build`. Output directory: `dist`. The included `vercel.json` sets both automatically. No environment variables are needed.
-4. Click **Deploy**. Later pushes to `main` deploy automatically when the Git integration is connected.
-
-Alternatively run `npx vercel` in this directory for a preview, then `npx vercel --prod` to publish.
-
-Google Fonts is an optional external request; local serif and monospace fallbacks are supplied. Sound begins only after a click. Reduced-motion preferences stop the relic animation. The offering text exists only in the input and is cleared on submission.
+Animation is capped at 30 frames per second, stops in hidden tabs, and starts still for reduced-motion visitors. The stillness button pauses it at any time. Audio requires explicit activation. Optional Google Fonts have local fallbacks.
