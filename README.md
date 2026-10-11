@@ -25,3 +25,5 @@ Iteration 6 connects the interior and exterior: Transplant saves the organ arran
 Iteration 7 adds a negative sun: summon it to gravitationally distort the outer mesh. Move over the canvas to relocate it, or focus its button and use arrow keys. Dismiss it to restore the undistorted geometry.
 
 Iteration 8: convene the unborn parliament and vote an organ out of existence. Its interior connections disappear, its ghost remains movable, the body's sentence changes, and the exterior membrane develops an organ-specific deformation. Rescind restores all five.
+
+Iteration 9 adds an unfaithful mirror. Capture the membrane's current state, change its laws or anatomy, and blend the living folds with the frozen double using a keyboard-accessible slider. Shattering releases the snapshot. One small snapshot is retained only for the visit.
