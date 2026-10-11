@@ -27,3 +27,5 @@ Iteration 7 adds a negative sun: summon it to gravitationally distort the outer 
 Iteration 8: convene the unborn parliament and vote an organ out of existence. Its interior connections disappear, its ghost remains movable, the body's sentence changes, and the exterior membrane develops an organ-specific deformation. Rescind restores all five.
 
 Iteration 9 adds an unfaithful mirror. Capture the membrane's current state, change its laws or anatomy, and blend the living folds with the frozen double using a keyboard-accessible slider. Shattering releases the snapshot. One small snapshot is retained only for the visit.
+
+Iteration 10 adds forbidden names: a transient word becomes a deterministic geometry and frequency signature, then is cleared. The ritual cabinet consolidates secondary controls into a scrollable drawer on desktop and mobile. No word is saved or transmitted.
