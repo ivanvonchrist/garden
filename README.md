@@ -151,3 +151,5 @@ Iteration 69: Phase (field 12) rotates ribs by a bounded sinusoidal angle after 
 Iteration 70: Split (field 13) distributes ribs between sinusoidal centers. The displacement is capped at 18% of the shorter viewport dimension on each axis and shares live, future and exported geometry; state history and fingerprints preserve it.
 
 Iteration 71: Pulse (field 14) drives rib expansion and the phase of competing centers from the simulation clock. Pausing or holding the clock holds the pulse; reverse and pendulum clocks reverse it. Future geometry uses its projected clock, while exports use the sampled clock. Expansion stays between 0.75 and 1.25.
+
+Iteration 72: Mutate (⊛) derives a seed from the current structural fingerprint and atomically changes eight geometry fields. Protocol op 21 accepts a 16-bit seed, yielding the same field vector for repeated seeds. Existing composition rollback and history preserve the full mutation.
