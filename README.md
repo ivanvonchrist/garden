@@ -155,3 +155,5 @@ Iteration 71: Pulse (field 14) drives rib expansion and the phase of competing c
 Iteration 72: Mutate (⊛) derives a seed from the current structural fingerprint and atomically changes eight geometry fields. Protocol op 21 accepts a 16-bit seed, yielding the same field vector for repeated seeds. Existing composition rollback and history preserve the full mutation.
 
 Iteration 73: Counter (⇌), protocol op 22, complements the eight mutation fields in one atomic composition. Applying it twice restores their values within floating-point precision. Clock, sound, node bindings and other fields remain independent.
+
+Iteration 74: Rotate (⟳) moves the eight mutation values between their laws without changing their numeric multiset. Protocol op 23 accepts +1 or -1 for opposite directions. Eight rotations or a forward/reverse pair recover the original vector exactly.
