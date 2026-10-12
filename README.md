@@ -59,3 +59,5 @@ Iteration 23 adds four time laws: forward, reverse, pendulum, and refusal. Borro
 Iteration 24 adds an anatomical chant. Surviving organs choose a three-tone sequence from their horizontal order and vertical positions. Its slow steps follow simulation time, including reversed clocks; erased organs are excluded. Activation explicitly wakes the existing quiet synthesizer, while the sound toggle remains available to mute it. Still scenes can revoice through deliberate ritual clicks.
 
 Iteration 25 veils the exterior while leaving its simulation alive. Move a circular aperture of visibility with the pointer or arrow keys while the veil button is focused. Hidden geometry remains available to extraction and full-reality history; lifting the veil reveals the current body.
+
+Iteration 26 introduces a local ritual grammar. Compose up to eight verbs to transform the room in order, for example dream reverse scatter eclipse. The complete sentence is validated before any action; unknown verbs do nothing. No model calls, uploads, or retained sentence text are involved.
