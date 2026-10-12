@@ -99,3 +99,5 @@ Iteration 43 extracts Three Incompatible Witnesses: a single standalone SVG trip
 Iteration 44 atomizes space with a lattice slider. Shared projection snaps live/future geometry and exports to bounded grid coordinates, while a capped background chart reveals the permitted distances. Atomize and smooth join causal grammar; complete reality history preserves the lattice.
 
 Iteration 45 coils space with radial spiral gravity. Nearby points rotate more strongly than distant ones while preserving radial distance before later topology and lattice maps. Live bodies, projections, shadows, swarms, and exports share the field. Coil and unwind compose it through causal grammar.
+
+Iteration 46 changes the visible product into a machine-readable protocol. JSON state and numeric operation packets replace the prose interface. window.gardenProtocol exposes schema, read, and execute methods; packets are validated before mutation. Lexical tokens are encoded as code-point arrays. Audio remains explicit. Existing geometric rituals persist behind the numeric protocol.
