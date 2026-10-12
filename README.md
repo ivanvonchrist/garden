@@ -35,3 +35,5 @@ Iteration 11 turns the body into an aperture: moving waves occupy its exterior w
 Iteration 12 lets visitors borrow a projected body 1–60 seconds ahead. A dashed spectral membrane predicts the current geometry under the active laws, anatomy, mirror, and negative sun. Repay advances simulation time to that body; cancel dismisses it. Only one future body is rendered, with a reduced mesh.
 
 Iteration 13 adds three contradictory spaces: returning seams, reversed returns, and dislocated islands. The mesh and borrowed future body wrap around a visible chart, with strokes broken at seams rather than drawing accidental bridges. Cycle the ritual a fourth time to restore ordinary space.
+
+Iteration 14 reverses observation: the creature's surviving organs vote to classify the visitor. Organ positions and forbidden-name signatures determine votes. The winning law and a contradictory topology are imposed together; appeal restores the earlier law and topology. Witness testimony explains each vote.
