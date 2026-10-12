@@ -83,3 +83,5 @@ Iteration 35 expands causal grammar with devour, suture, disown, possess, invert
 Iteration 36 adds the Nursery of Missing Pieces and A Future Possessed by Its Past. These cosmologies compose wounds, sutures, shadows, ancestry, reversed time, and inverted distances. Returning now restores the complete pre-dream reality plus simulation time, pointer pose, division, feeding count, and particles.
 
 Iteration 37 rotates organ identities while preserving positions. Grammar, erased-name ghosts, voting, and the chant follow the exchanged identities. The exchange verb composes with causal sentences. Full reality snapshots now preserve organ names and positions without replacing event-bound organ objects.
+
+Iteration 38 fractures the present across the membrane's ribs, with offsets spanning up to 24 seconds. Live bodies, future projections, mirror captures, and extracted geometry share the per-rib clock. Full reality history preserves the fracture strength.

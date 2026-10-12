@@ -25,3 +25,4 @@ footer{flex-wrap:wrap;justify-content:flex-start;gap:4px 22px}footer button{padd
 #ancestry{width:100%;accent-color:#edc5e5}#ancestor-status{font-size:8px;line-height:1.7;color:#c9b3dc}
 .ritual-examples{display:grid;gap:3px;border-top:1px solid #ffffff20;margin-top:12px;padding-top:8px}.ritual-examples button{text-align:left;color:#bda4d2;font-size:9px;padding:8px 0}
 #inner-exchange{position:absolute;top:65px;left:50%;transform:translateX(-50%);pointer-events:auto;font-size:8px;color:#c9b3dc;white-space:nowrap}
+#time-fracture{width:100%;accent-color:#b894df}#fracture-status{font-size:8px;line-height:1.7;color:#c9b3dc}
