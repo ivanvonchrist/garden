@@ -2,6 +2,8 @@
 
 Development stopped after iteration 78 at the user's request. See [the complete development and conversation history](DEVELOPMENT_HISTORY.md) for all iterations, commits, and the user's changes in direction.
 
+See [What Garden is and what it can do](WHAT_GARDEN_IS.md) for the interpretation, interaction guide, capability reference, and practical limits of the final experience.
+
 A procedural organism occupying a breach in causality. Move your pointer to fold it, click to feed it glyphs, and repeal seven laws of reality to alter its geometry, color, telemetry, and optional synthesized sound. Keyboard users can feed and mutate it using the buttons. Nothing is stored or sent. No dependencies or API keys.
 
 ## Local
