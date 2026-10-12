@@ -21,7 +21,7 @@ function paint(){if(!ctx||!width)return;if(inside){paintInside();return;}ctx.fil
  ctx.restore();if(inverted)drawUnbody();drawSwarm();drawFuture();drawSeams();drawPortals();drawGesture();drawGraft();drawWound();drawSun();drawFossils();for(const s of seeds){ctx.strokeStyle=`rgba(214,252,131,${s.life*.6})`;ctx.beginPath();ctx.arc(s.x,s.y,8+(1-s.life)*160,0,Math.PI*2);ctx.stroke();ctx.fillStyle=`rgba(214,252,131,${s.life})`;ctx.font='24px Georgia';ctx.fillText(s.glyph,s.x-8,s.y+8);if(!paused)s.life-=.004;}seeds=seeds.filter(s=>s.life>0);
  for(const p of trails){ctx.fillStyle=`rgba(214,252,131,${p.life*.4})`;ctx.fillRect(p.x,p.y,2,2);if(!paused)p.life-=.03;}trails=trails.filter(p=>p.life>0);
 }
-function loop(t){if(!document.hidden&&!paused&&!detached&&t-last>33){const dt=Math.min((t-last)/1000,.05);time=projectTime(time,temporalPhase,dt,temporalLaw);temporalPhase+=dt;advanceBreath(dt);last=t;remember(t);paint();}requestAnimationFrame(loop);}
+function loop(t){if(!document.hidden&&!paused&&!detached&&t-last>33){const dt=Math.min((t-last)/1000,.05);time=projectTime(time,temporalPhase,dt,temporalLaw);temporalPhase+=dt;advanceBreath(dt);singAnatomy();last=t;remember(t);paint();}requestAnimationFrame(loop);}
 
 
 let detached=false, memories=[], fossils=[], lastMemory=0;
@@ -161,4 +161,11 @@ function projectTime(value,phase,seconds,law){if(law===1)return value-seconds;if
 const clock=document.createElement('button');clock.id='clock-law';clock.textContent='Time: obedient →';$('ritual-tools').prepend(clock);
 function syncClock(){clock.textContent=['Time: obedient →','Time: unwriting itself ←','Time: a pendulum without a wall ↔','Time: refusing to participate ◌'][temporalLaw];}
 clock.onclick=()=>{temporalLaw=(temporalLaw+1)%4;syncClock();$('transmission').textContent=['Time has reluctantly resumed its direction.','The creature is becoming what it was before it happened.','The present swings through itself, refusing to leave.','Time has stopped. Your hand has not.'][temporalLaw];paint();};
+let chanting=false,lastChantBeat=null;
+function anatomyChord(anatomy,missing,beat){const alive=anatomy.filter(o=>o.name!==missing).sort((a,b)=>a.x-b.x);if(!alive.length)return [];return Array.from({length:3},(_,i)=>{const organ=alive[((beat+i)%alive.length+alive.length)%alive.length],step=Math.floor(organ.y*8),ratio=[1,9/8,6/5,4/3,3/2,8/5,9/5,2][Math.min(7,Math.max(0,step))];return {name:organ.name,frequency:55*ratio*(i===2?2:1)};});}
+function singAnatomy(force=false){if(!chanting||!audio||muted||audio.state!=='running')return;const beat=Math.floor(time/1.8);if(!force&&beat===lastChantBeat)return;lastChantBeat=beat;const chord=anatomyChord(organs,erased,beat);chord.forEach((note,i)=>oscillators[i]?.frequency.setTargetAtTime(note.frequency,audio.currentTime,.45));$('chant-status').textContent=chord.map(n=>n.name).join(' / ');}
+const choir=document.createElement('section');choir.className='future-tools';choir.innerHTML='<button id="chant" aria-pressed="false">Let the organs sing their positions ∿</button><p id="chant-status" role="status">The choir has not yet remembered a song.</p>';$('ritual-tools').append(choir);
+$('chant').onclick=async()=>{chanting=!chanting;$('chant').setAttribute('aria-pressed',String(chanting));$('chant').textContent=chanting?'Return the organs to silence ◌':'Let the organs sing their positions ∿';if(chanting){if(muted)await $('sound').onclick();singAnatomy(true);$('transmission').textContent='The organs have begun to pronounce the distances between themselves.';}else{lastChantBeat=null;oscillators.forEach((o,i)=>o.frequency.setTargetAtTime([55,61.74,73.42,48.99,65.41,41.2,82.41][mode]*(i+1.003),audio.currentTime,.5));$('chant-status').textContent='The choir has returned to the underlying drone.';}};
+// A deliberate rearrangement can change the chord even in a still room.
+document.addEventListener('click',()=>queueMicrotask(()=>singAnatomy(true)));
 addEventListener('resize',resize);resize();remember(181);requestAnimationFrame(loop);

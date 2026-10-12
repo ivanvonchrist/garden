@@ -55,3 +55,5 @@ Iteration 21 introduces unwritten star names: select 2–6 stars in a keyboard-a
 Iteration 22 extends the time organ from pose history to bounded reality history. Snapshots now preserve names, transplanted anatomy, mirror doubles, erased organs, breath, future debt, cosmology state, and all spatial distortions. Intentional ritual clicks record history even with reduced motion; scrubbing silently restores laws without spawning feed particles.
 
 Iteration 23 adds four time laws: forward, reverse, pendulum, and refusal. Borrowed bodies project and repay using the active clock rather than assuming forward time. Full reality snapshots preserve the clock's mode and phase. Reduced-motion and stillness continue to stop automatic motion.
+
+Iteration 24 adds an anatomical chant. Surviving organs choose a three-tone sequence from their horizontal order and vertical positions. Its slow steps follow simulation time, including reversed clocks; erased organs are excluded. Activation explicitly wakes the existing quiet synthesizer, while the sound toggle remains available to mute it. Still scenes can revoice through deliberate ritual clicks.
