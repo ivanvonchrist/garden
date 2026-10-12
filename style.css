@@ -12,3 +12,4 @@ footer{flex-wrap:wrap;justify-content:flex-start;gap:4px 22px}footer button{padd
 #breath-meter{width:100%;height:8px;display:block;accent-color:#d6fc83}.breath-note{font-size:8px;color:#aaa;line-height:1.6}#breathe{touch-action:none;user-select:none}#breathe[aria-pressed=true]{color:#d6fc83}
 #pact-controls button{display:block;font-size:8px;text-align:left;padding:8px 0}#pact-status{font-size:8px;line-height:1.7;color:#aaa}
 .future-tools>label{display:block;font-size:9px;color:#edc5e5;padding:10px 0;line-height:1.6}#shedding{width:100%;accent-color:#d6fc83}#shedding-status{font-size:8px;line-height:1.6;color:#aaa}
+.dream-actions{display:flex;flex-direction:column;align-items:flex-start;gap:4px;pointer-events:auto;margin-top:10px}.dream-actions button{color:#edc5e5;padding:9px 0;font-size:10px;letter-spacing:.5px}#wake{color:#aaa;font-size:8px}#wake[hidden]{display:none}main{padding-bottom:110px}@media(max-width:700px){main{padding-bottom:230px}}

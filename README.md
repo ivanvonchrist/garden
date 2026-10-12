@@ -47,3 +47,5 @@ Iteration 17 creates paired mouths. Membrane points entering either circular reg
 Iteration 18 lets identity resign: a slider dissolves the visible membrane into 180 deterministic, orbiting witnesses. Their home positions follow current geometry, including seams and eclipse mouths; they scatter without adding independent timers. Return the slider to zero to reassemble the creature. SVG extraction retains the underlying membrane.
 
 Iteration 19 teaches space a gesture: draw a stroke to leave a spatial scar that attracts membrane geometry. The same distortion affects projected bodies, apertures, and SVG extraction. The scar retains at most 24 normalized anchors, survives viewport changes during the visit, and can be erased. Escape cancels teaching.
+
+Iteration 20 adds four alternate cosmologies accessible from the main scene. Each composes several existing rituals into a coherent transformation: an absent sea, scattered suns, a two-throated cathedral, and a wound-born body. Return restores the pre-dream title, law, topology, sun, portals, gesture, and dissolution state. Other rituals remain available within each universe.
