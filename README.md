@@ -129,3 +129,5 @@ Iteration 58 exposes a minimal matrix panel with four bounded numeric inputs and
 Protocol 59 adds op 17 for recurrence neighborhood policies: ring (0), anatomical bonds with ring fallback (1), and opposing nodes (2). The Policy symbol cycles them directly. Bonded averages affect recurrence while preserving positional bounds; selected policy is included in state and reality snapshots.
 
 Protocol 60 adds field 8, Drift, to the direct slider and numeric field operation. It blends recurrence output with current node positions: zero preserves node coordinates, one applies full recurrence. Convex mixing keeps all policies inside the permitted domain; full reality snapshots preserve the coefficient.
+
+Protocol 61 extends op 17 with policy 3: deterministic moving neighborhoods selected from seed and recurrence step. The ∞ policy symbol selects it directly. Node view draws the active dependency graph, and structural fingerprints now include the recurrence policy.
