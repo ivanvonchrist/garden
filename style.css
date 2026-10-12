@@ -19,3 +19,4 @@ footer{flex-wrap:wrap;justify-content:flex-start;gap:4px 22px}footer button{padd
 #echo-status{font-size:8px;color:#c9b3dc;line-height:1.7}#unsay,#echo-sentence{display:block;font-size:8px;text-align:left;padding-left:0}#unsay:disabled,#echo-sentence:disabled{opacity:.35;cursor:default}
 #mercy{width:100%;accent-color:#ecaedc}#mercy-status{font-size:8px;color:#c9b3dc;line-height:1.7}
 #ritual-inquiry{position:sticky;top:-20px;z-index:3;background:#100e17;padding:12px 0;border-bottom:1px solid #b78ecc55}#ritual-inquiry label{display:block;font-size:9px;color:#edc5e5;line-height:1.6;margin-bottom:9px}#ritual-search{width:100%;padding:10px;background:#08090e;border:1px solid #b78ecc66;color:#efeedf;font:10px monospace}#catalog-status{font-size:8px;line-height:1.6;color:#aaa}#ritual-tools>[hidden]{display:none!important}
+#shadow-drift{width:100%;accent-color:#b78fde}#shadow-status{font-size:8px;line-height:1.7;color:#c9b3dc}

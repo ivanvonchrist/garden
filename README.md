@@ -69,3 +69,5 @@ Iteration 28 gives feeding a persistent appetite: hunger mode stamps up to eight
 Iteration 29 sutures missing pieces with a mercy slider. Wounds contract while a small absence remains, nearby geometry pulls toward the repair, and five visible threads span each hole. The changes affect live/future geometry, extraction, and full-reality history.
 
 Iteration 30 makes the ritual cabinet searchable by fragments. All words must match a ritual's text. Enter ? to receive one deterministic suggestion based on the current creature, without triggering it. Slash opens and focuses search; Escape clears the filter. Ritual buttons receive explicit accessible labels.
+
+Iteration 31 disowns the creature's shadow: a slider reveals a mirrored, drifting spectral membrane derived from the current body. It respects seam breaks and eaten pieces, remains searchable in the cabinet, and is preserved by complete reality history. SVG extraction continues to capture the underlying creature.
