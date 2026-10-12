@@ -127,3 +127,5 @@ Iteration 57 exposes compact human export symbols for SVG geometry, a temporal t
 Iteration 58 exposes a minimal matrix panel with four bounded numeric inputs and identity, rotation, reflection, and collapse presets. Apply dispatches protocol op 14; closing leaves the current geometry unchanged. Short accessible labels identify each coefficient and action.
 
 Protocol 59 adds op 17 for recurrence neighborhood policies: ring (0), anatomical bonds with ring fallback (1), and opposing nodes (2). The Policy symbol cycles them directly. Bonded averages affect recurrence while preserving positional bounds; selected policy is included in state and reality snapshots.
+
+Protocol 60 adds field 8, Drift, to the direct slider and numeric field operation. It blends recurrence output with current node positions: zero preserves node coordinates, one applies full recurrence. Convex mixing keeps all policies inside the permitted domain; full reality snapshots preserve the coefficient.
