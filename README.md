@@ -79,3 +79,5 @@ Iteration 33 makes pointer observation constrain time. When enabled, hovering ov
 Iteration 34 invites the latest fossil to possess its descendant. An ancestry slider blends live, projected, and extracted membrane coordinates toward the normalized frozen outline. If no fossil exists, inviting captures the present silhouette. Returning the slider to zero releases the body; full reality snapshots preserve the ancestor.
 
 Iteration 35 expands causal grammar with devour, suture, disown, possess, invert, nearfar, observe, and withdraw. Three selectable examples fill the sentence without executing it. Devouring places bounded holes along a deterministic orbit; unsaying now restores feeding counts and particles as well as the full reality.
+
+Iteration 36 adds the Nursery of Missing Pieces and A Future Possessed by Its Past. These cosmologies compose wounds, sutures, shadows, ancestry, reversed time, and inverted distances. Returning now restores the complete pre-dream reality plus simulation time, pointer pose, division, feeding count, and particles.
