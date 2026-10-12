@@ -109,3 +109,5 @@ Protocol 48 adds op 10: a nonrecursive composition of 1–8 packets drawn from o
 Protocol 49 adds op 11 [seed, enabled] for a bounded two-Hz node recurrence. Seed range is 0–65535, enabled is 0 or 1. Node positions remain inside their permitted domain, drive a cached membrane harmonic, and preserve identifiers and bonds. Observation, stillness, hidden tabs, and detached time suspend updates; full reality snapshots preserve recurrence state.
 
 Protocol 50 adds op 12 with 1 to pause or 0 to resume, and op 13 to advance 1–120 synthetic 1/30-second frames. Manual stepping preserves the automatic pause flag, follows clock and observation constraints, and includes recurrence and breath updates. Intermediate renders are suppressed; failure restores the prior reality.
+
+Protocol 51 adds op 14 for a row-major 2×2 matrix with coefficients from -2 to 2. Node coordinates transform about the normalized center and clamp to the existing domain, then graft into the membrane. The operation joins bounded compositions and preserves node identities and bonds.
