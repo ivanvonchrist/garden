@@ -29,3 +29,5 @@ Iteration 8: convene the unborn parliament and vote an organ out of existence. I
 Iteration 9 adds an unfaithful mirror. Capture the membrane's current state, change its laws or anatomy, and blend the living folds with the frozen double using a keyboard-accessible slider. Shattering releases the snapshot. One small snapshot is retained only for the visit.
 
 Iteration 10 adds forbidden names: a transient word becomes a deterministic geometry and frequency signature, then is cleared. The ritual cabinet consolidates secondary controls into a scrollable drawer on desktop and mobile. No word is saved or transmitted.
+
+Iteration 11 turns the body into an aperture: moving waves occupy its exterior while a bounded star field appears through its missing flesh. Forbidden names alter the aperture's teeth, laws alter its outline, and the negative sun warps its boundary. Toggle the ritual again to restore skin.
