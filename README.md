@@ -115,3 +115,5 @@ Protocol 51 adds op 14 for a row-major 2×2 matrix with coefficients from -2 to 
 Protocol 52 adds a noncryptographic uint32 structural fingerprint and op 15. Selector 0 reads the fingerprint, 1 maps its bytes into four spatial fields, 2 generates an algebraic graft, and 3 derives a recurrence seed without enabling a disabled recurrence. Fingerprints omit wall time, history length, and audio state; feedback joins bounded compositions.
 
 Iteration 53 restores direct human interaction with minimal visible text: symbolic world, motion, step, recurrence, feedback, and return controls; eight selectable field symbols; and one labeled range. A collapsible JSON console preserves the protocol. Short accessible names and tooltips identify symbols without explanatory prose.
+
+Iteration 54 exposes a minimal direct node view through the ⟁ control. Drag nodes or move focused nodes with arrow keys; symbolic controls exchange identities, toggle binding, graft the arrangement, or return. Visible node identities are numeric; the JSON protocol remains available in the outer view.
