@@ -45,3 +45,5 @@ Iteration 16 extracts a specimen as a standalone SVG download. Its frozen membra
 Iteration 17 creates paired mouths. Membrane points entering either circular region emerge inverted at the other, with seam-aware pen breaks. The effect also applies to future bodies and SVG extraction. Place mouths by clicking, or move each with focused arrow controls; Escape cancels placement and breaking the pact restores ordinary mapping.
 
 Iteration 18 lets identity resign: a slider dissolves the visible membrane into 180 deterministic, orbiting witnesses. Their home positions follow current geometry, including seams and eclipse mouths; they scatter without adding independent timers. Return the slider to zero to reassemble the creature. SVG extraction retains the underlying membrane.
+
+Iteration 19 teaches space a gesture: draw a stroke to leave a spatial scar that attracts membrane geometry. The same distortion affects projected bodies, apertures, and SVG extraction. The scar retains at most 24 normalized anchors, survives viewport changes during the visit, and can be erased. Escape cancels teaching.
