@@ -31,3 +31,5 @@ Iteration 9 adds an unfaithful mirror. Capture the membrane's current state, cha
 Iteration 10 adds forbidden names: a transient word becomes a deterministic geometry and frequency signature, then is cleared. The ritual cabinet consolidates secondary controls into a scrollable drawer on desktop and mobile. No word is saved or transmitted.
 
 Iteration 11 turns the body into an aperture: moving waves occupy its exterior while a bounded star field appears through its missing flesh. Forbidden names alter the aperture's teeth, laws alter its outline, and the negative sun warps its boundary. Toggle the ritual again to restore skin.
+
+Iteration 12 lets visitors borrow a projected body 1–60 seconds ahead. A dashed spectral membrane predicts the current geometry under the active laws, anatomy, mirror, and negative sun. Repay advances simulation time to that body; cancel dismisses it. Only one future body is rendered, with a reduced mesh.
