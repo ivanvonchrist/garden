@@ -63,3 +63,5 @@ Iteration 25 veils the exterior while leaving its simulation alive. Move a circu
 Iteration 26 introduces a local ritual grammar. Compose up to eight verbs to transform the room in order, for example dream reverse scatter eclipse. The complete sentence is validated before any action; unknown verbs do nothing. No model calls, uploads, or retained sentence text are involved.
 
 Iteration 27 lets causal sentences be unsaid or echoed. A single pre-sentence reality snapshot restores the latest transformation; echo replays the validated verbs and creates a new reversible sentence. Runtime failure rolls back the partial sentence. Only one undo snapshot and one eight-verb echo are retained.
+
+Iteration 28 gives feeding a persistent appetite: hunger mode stamps up to eight missing circles into the body. Live and future mesh strokes break across holes, SVG specimens preserve their gaps, and whole-reality history stores the missing pieces. Return the eaten pieces heals them without disabling hunger.
