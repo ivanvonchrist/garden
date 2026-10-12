@@ -1,5 +1,7 @@
 # Garden / The Mouth of Elsewhere
 
+Development stopped after iteration 78 at the user's request. See [the complete development and conversation history](DEVELOPMENT_HISTORY.md) for all iterations, commits, and the user's changes in direction.
+
 A procedural organism occupying a breach in causality. Move your pointer to fold it, click to feed it glyphs, and repeal seven laws of reality to alter its geometry, color, telemetry, and optional synthesized sound. Keyboard users can feed and mutate it using the buttons. Nothing is stored or sent. No dependencies or API keys.
 
 ## Local
@@ -18,7 +20,7 @@ Iteration 3 adds a detachable time organ: scrub a bounded history of 240 states 
 
 Iteration 4: arm the wound tool and drag across the canvas to divide the mesh and grow a second mouth. Divide without a hand offers the same ritual via keyboard; Heal reunites the body. Time history now restores divisions as well as geometry.
 
-Iteration 5 completes the encounter: Be swallowed enters a second scene with five draggable organs. Arrow keys move a focused organ; their horizontal order composes the body's belief. Escape or Return exits. Iterations continue every ten minutes until explicitly stopped by the user.
+Iteration 5 completes the encounter: Be swallowed enters a second scene with five draggable organs. Arrow keys move a focused organ; their horizontal order composes the body's belief. Escape or Return exits. Scheduled iterations were stopped at the user's request after iteration 78.
 
 Iteration 6 connects the interior and exterior: Transplant saves the organ arrangement for this visit, changes the outer membrane's shape, reveals anatomical anchor lines, and retunes active sound.
 
