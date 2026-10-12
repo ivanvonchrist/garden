@@ -121,3 +121,5 @@ Iteration 54 exposes a minimal direct node view through the ⟁ control. Drag no
 Iteration 55 restores direct hold-to-breathe and opt-in sound through two symbols. Breath accepts pointer, Space, and Enter, releasing on pointer cancellation or focus loss. Protocol op 16 holds (1) or releases (0) the breath. No microphone is used; sound activation remains explicit.
 
 Iteration 56 exposes direct spatial-scar drawing and erasure through two symbols. Pointer strokes retain the bounded 24-anchor field; keyboard users can arm Draw, move the virtual pen with arrow keys, and activate Finish. Escape cancels drawing. Direct completion refreshes the compact controls and records the reality.
+
+Iteration 57 exposes compact human export symbols for SVG geometry, a temporal triptych, and JSON state with schema. SVG captions are removed and replaced with a short identity plus XML-escaped numeric metadata. Generated downloads remain local and use structural fingerprint filenames.
