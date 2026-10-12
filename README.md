@@ -147,3 +147,5 @@ Protocol 67 adds normalized field 10, Winding. It changes radial and depth windi
 Protocol 68 adds normalized field 11, Side. Alternating membrane ribs interpolate toward reflected interiors, passing through collapsed bands. Live, future, and extracted geometry share the sidedness projection; full reality snapshots preserve its strength.
 
 Iteration 69: Phase (field 12) rotates ribs by a bounded sinusoidal angle after sidedness. Live geometry, future projections, SVG exports, state fingerprints, history and restoration share this projection. Zero preserves the previous shape.
+
+Iteration 70: Split (field 13) distributes ribs between sinusoidal centers. The displacement is capped at 18% of the shorter viewport dimension on each axis and shares live, future and exported geometry; state history and fingerprints preserve it.
