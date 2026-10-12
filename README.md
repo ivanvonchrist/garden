@@ -33,3 +33,5 @@ Iteration 10 adds forbidden names: a transient word becomes a deterministic geom
 Iteration 11 turns the body into an aperture: moving waves occupy its exterior while a bounded star field appears through its missing flesh. Forbidden names alter the aperture's teeth, laws alter its outline, and the negative sun warps its boundary. Toggle the ritual again to restore skin.
 
 Iteration 12 lets visitors borrow a projected body 1–60 seconds ahead. A dashed spectral membrane predicts the current geometry under the active laws, anatomy, mirror, and negative sun. Repay advances simulation time to that body; cancel dismisses it. Only one future body is rendered, with a reduced mesh.
+
+Iteration 13 adds three contradictory spaces: returning seams, reversed returns, and dislocated islands. The mesh and borrowed future body wrap around a visible chart, with strokes broken at seams rather than drawing accidental bridges. Cycle the ritual a fourth time to restore ordinary space.
