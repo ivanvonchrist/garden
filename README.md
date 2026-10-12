@@ -75,3 +75,5 @@ Iteration 31 disowns the creature's shadow: a slider reveals a mirrored, driftin
 Iteration 32 exchanges near and far through a bounded radial inversion. Nearby folds expand and distant folds contract without a center singularity. Live geometry, future bodies, shadows, swarms, and extracted specimens share the map; complete reality history preserves the slider.
 
 Iteration 33 makes pointer observation constrain time. When enabled, hovering over the body's central region freezes its simulation clock; moving elsewhere releases it. Borrowed projections obey the same constraint. Withdraw the witness provides an explicit alternative. This is pointer interaction, not eye tracking; no sensor permissions are requested.
+
+Iteration 34 invites the latest fossil to possess its descendant. An ancestry slider blends live, projected, and extracted membrane coordinates toward the normalized frozen outline. If no fossil exists, inviting captures the present silhouette. Returning the slider to zero releases the body; full reality snapshots preserve the ancestor.
