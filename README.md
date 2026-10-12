@@ -37,3 +37,5 @@ Iteration 12 lets visitors borrow a projected body 1–60 seconds ahead. A dashe
 Iteration 13 adds three contradictory spaces: returning seams, reversed returns, and dislocated islands. The mesh and borrowed future body wrap around a visible chart, with strokes broken at seams rather than drawing accidental bridges. Cycle the ritual a fourth time to restore ordinary space.
 
 Iteration 14 reverses observation: the creature's surviving organs vote to classify the visitor. Organ positions and forbidden-name signatures determine votes. The winning law and a contradictory topology are imposed together; appeal restores the earlier law and topology. Witness testimony explains each vote.
+
+Iteration 15 adds borrowed breath. Hold the ritual button with pointer, Space, or Enter to expand both the body and projected future and raise active sound pitch. Release to exhale. Reduced-motion and detached-time modes use immediate state changes. Pointer cancellation, focus loss, and hidden tabs release the hold; no microphone access is requested.
