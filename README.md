@@ -39,3 +39,5 @@ Iteration 13 adds three contradictory spaces: returning seams, reversed returns,
 Iteration 14 reverses observation: the creature's surviving organs vote to classify the visitor. Organ positions and forbidden-name signatures determine votes. The winning law and a contradictory topology are imposed together; appeal restores the earlier law and topology. Witness testimony explains each vote.
 
 Iteration 15 adds borrowed breath. Hold the ritual button with pointer, Space, or Enter to expand both the body and projected future and raise active sound pitch. Release to exhale. Reduced-motion and detached-time modes use immediate state changes. Pointer cancellation, focus loss, and hidden tabs release the hold; no microphone access is requested.
+
+Iteration 16 extracts a specimen as a standalone SVG download. Its frozen membrane captures the current laws, names, anatomy, breath, mirror blending, division, negative sun, and seam topology. Aperture mode exports its outline. Export is generated locally without uploads and contains no forbidden-word text.
