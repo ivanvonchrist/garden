@@ -119,3 +119,5 @@ Iteration 53 restores direct human interaction with minimal visible text: symbol
 Iteration 54 exposes a minimal direct node view through the ⟁ control. Drag nodes or move focused nodes with arrow keys; symbolic controls exchange identities, toggle binding, graft the arrangement, or return. Visible node identities are numeric; the JSON protocol remains available in the outer view.
 
 Iteration 55 restores direct hold-to-breathe and opt-in sound through two symbols. Breath accepts pointer, Space, and Enter, releasing on pointer cancellation or focus loss. Protocol op 16 holds (1) or releases (0) the breath. No microphone is used; sound activation remains explicit.
+
+Iteration 56 exposes direct spatial-scar drawing and erasure through two symbols. Pointer strokes retain the bounded 24-anchor field; keyboard users can arm Draw, move the virtual pen with arrow keys, and activate Finish. Escape cancels drawing. Direct completion refreshes the compact controls and records the reality.
