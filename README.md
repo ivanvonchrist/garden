@@ -81,3 +81,5 @@ Iteration 34 invites the latest fossil to possess its descendant. An ancestry sl
 Iteration 35 expands causal grammar with devour, suture, disown, possess, invert, nearfar, observe, and withdraw. Three selectable examples fill the sentence without executing it. Devouring places bounded holes along a deterministic orbit; unsaying now restores feeding counts and particles as well as the full reality.
 
 Iteration 36 adds the Nursery of Missing Pieces and A Future Possessed by Its Past. These cosmologies compose wounds, sutures, shadows, ancestry, reversed time, and inverted distances. Returning now restores the complete pre-dream reality plus simulation time, pointer pose, division, feeding count, and particles.
+
+Iteration 37 rotates organ identities while preserving positions. Grammar, erased-name ghosts, voting, and the chant follow the exchanged identities. The exchange verb composes with causal sentences. Full reality snapshots now preserve organ names and positions without replacing event-bound organ objects.
