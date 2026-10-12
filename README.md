@@ -143,3 +143,5 @@ Protocol 65 exposes complete reality history through a minimal slider dialog and
 Protocol 66 exposes future debt as normalized field 9 and a direct Debt slider, mapping 0–1 to 0–60 seconds. Repay advances the present to its projected body according to the active geometry clock and observation rule. Two-axis morphing can pair Debt with Coil through wrapped field selection.
 
 Protocol 67 adds normalized field 10, Winding. It changes radial and depth winding orders continuously, allowing fractional mismatched seams. Live, future, fossil, aperture, mirror, and extracted geometry share the winding state; full reality snapshots preserve it.
+
+Protocol 68 adds normalized field 11, Side. Alternating membrane ribs interpolate toward reflected interiors, passing through collapsed bands. Live, future, and extracted geometry share the sidedness projection; full reality snapshots preserve its strength.
