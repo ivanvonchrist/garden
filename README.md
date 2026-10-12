@@ -125,3 +125,5 @@ Iteration 56 exposes direct spatial-scar drawing and erasure through two symbols
 Iteration 57 exposes compact human export symbols for SVG geometry, a temporal triptych, and JSON state with schema. SVG captions are removed and replaced with a short identity plus XML-escaped numeric metadata. Generated downloads remain local and use structural fingerprint filenames.
 
 Iteration 58 exposes a minimal matrix panel with four bounded numeric inputs and identity, rotation, reflection, and collapse presets. Apply dispatches protocol op 14; closing leaves the current geometry unchanged. Short accessible labels identify each coefficient and action.
+
+Protocol 59 adds op 17 for recurrence neighborhood policies: ring (0), anatomical bonds with ring fallback (1), and opposing nodes (2). The Policy symbol cycles them directly. Bonded averages affect recurrence while preserving positional bounds; selected policy is included in state and reality snapshots.
