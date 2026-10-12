@@ -95,3 +95,5 @@ Iteration 41 adds tie, untie, borrow, and repay to causal grammar. Tying chooses
 Iteration 42 gives the universe a reincarnation ritual. After an in-app explanation, rebirth clears visit-local scars, fossils, history, sentence echoes, and anatomy, then selects a cosmology from a deterministic trace of the departed world. Nothing is sent or stored. Sound mute preferences remain under the separate sound control.
 
 Iteration 43 extracts Three Incompatible Witnesses: a single standalone SVG triptych sampling 20 seconds before, the present, and 20 seconds after. Projection follows the active time law and observation constraint, retains all current geometry rituals, and restores simulation state even if export generation fails.
+
+Iteration 44 atomizes space with a lattice slider. Shared projection snaps live/future geometry and exports to bounded grid coordinates, while a capped background chart reveals the permitted distances. Atomize and smooth join causal grammar; complete reality history preserves the lattice.
