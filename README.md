@@ -131,3 +131,5 @@ Protocol 59 adds op 17 for recurrence neighborhood policies: ring (0), anatomica
 Protocol 60 adds field 8, Drift, to the direct slider and numeric field operation. It blends recurrence output with current node positions: zero preserves node coordinates, one applies full recurrence. Convex mixing keeps all policies inside the permitted domain; full reality snapshots preserve the coefficient.
 
 Protocol 61 extends op 17 with policy 3: deterministic moving neighborhoods selected from seed and recurrence step. The ∞ policy symbol selects it directly. Node view draws the active dependency graph, and structural fingerprints now include the recurrence policy.
+
+Iteration 62 exposes the four geometry clocks directly through one cycling symbol. The numeric time display includes its direction glyph; short accessible names distinguish forward, reverse, pendulum, and still. Manual frame stepping and borrowed-body projection continue to use the selected law.
