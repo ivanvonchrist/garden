@@ -67,3 +67,5 @@ Iteration 27 lets causal sentences be unsaid or echoed. A single pre-sentence re
 Iteration 28 gives feeding a persistent appetite: hunger mode stamps up to eight missing circles into the body. Live and future mesh strokes break across holes, SVG specimens preserve their gaps, and whole-reality history stores the missing pieces. Return the eaten pieces heals them without disabling hunger.
 
 Iteration 29 sutures missing pieces with a mercy slider. Wounds contract while a small absence remains, nearby geometry pulls toward the repair, and five visible threads span each hole. The changes affect live/future geometry, extraction, and full-reality history.
+
+Iteration 30 makes the ritual cabinet searchable by fragments. All words must match a ritual's text. Enter ? to receive one deterministic suggestion based on the current creature, without triggering it. Slash opens and focuses search; Escape clears the filter. Ritual buttons receive explicit accessible labels.
