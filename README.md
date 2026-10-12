@@ -101,3 +101,5 @@ Iteration 44 atomizes space with a lattice slider. Shared projection snaps live/
 Iteration 45 coils space with radial spiral gravity. Nearby points rotate more strongly than distant ones while preserving radial distance before later topology and lattice maps. Live bodies, projections, shadows, swarms, and exports share the field. Coil and unwind compose it through causal grammar.
 
 Iteration 46 changes the visible product into a machine-readable protocol. JSON state and numeric operation packets replace the prose interface. window.gardenProtocol exposes schema, read, and execute methods; packets are validated before mutation. Lexical tokens are encoded as code-point arrays. Audio remains explicit. Existing geometric rituals persist behind the numeric protocol.
+
+Protocol 47 adds numeric node operations: 6 relocates a node, 7 toggles an undirected bond, 8 erases a node identity (-1 restores), and 9 selects a clock. Input ranges are published in the schema and validated before mutation. The visible protocol remains JSON-only.
