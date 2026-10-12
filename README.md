@@ -133,3 +133,5 @@ Protocol 60 adds field 8, Drift, to the direct slider and numeric field operatio
 Protocol 61 extends op 17 with policy 3: deterministic moving neighborhoods selected from seed and recurrence step. The ∞ policy symbol selects it directly. Node view draws the active dependency graph, and structural fingerprints now include the recurrence policy.
 
 Iteration 62 exposes the four geometry clocks directly through one cycling symbol. The numeric time display includes its direction glyph; short accessible names distinguish forward, reverse, pendulum, and still. Manual frame stepping and borrowed-body projection continue to use the selected law.
+
+Protocol 63 adds op 18 [field, x, y] for bounded two-field composition. The Morph symbol enables canvas dragging to control selected and adjacent fields; arrow keys on the focused symbol offer the same interaction. Pointer updates cap at roughly 30 Hz, Escape exits, and the active field pair is shown with glyphs.
