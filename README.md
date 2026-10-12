@@ -51,3 +51,5 @@ Iteration 19 teaches space a gesture: draw a stroke to leave a spatial scar that
 Iteration 20 adds four alternate cosmologies accessible from the main scene. Each composes several existing rituals into a coherent transformation: an absent sea, scattered suns, a two-throated cathedral, and a wound-born body. Return restores the pre-dream title, law, topology, sun, portals, gesture, and dissolution state. Other rituals remain available within each universe.
 
 Iteration 21 introduces unwritten star names: select 2–6 stars in a keyboard-accessible chart. Sequence distances and directions produce a geometry and frequency signature, replacing the creature's current name. Selecting a star again removes it; the oldest selection drops when exceeding six.
+
+Iteration 22 extends the time organ from pose history to bounded reality history. Snapshots now preserve names, transplanted anatomy, mirror doubles, erased organs, breath, future debt, cosmology state, and all spatial distortions. Intentional ritual clicks record history even with reduced motion; scrubbing silently restores laws without spawning feed particles.
