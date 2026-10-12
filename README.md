@@ -141,3 +141,5 @@ Protocol 64 exposes the visibility lens through a direct symbol and op 19 [enabl
 Protocol 65 exposes complete reality history through a minimal slider dialog and op 20. Nonnegative indices seek existing bounded records without shifting their slots; -1 resumes. Closing with Hold leaves time detached, while Resume releases it. The machine state reports the selected slot as j.
 
 Protocol 66 exposes future debt as normalized field 9 and a direct Debt slider, mapping 0–1 to 0–60 seconds. Repay advances the present to its projected body according to the active geometry clock and observation rule. Two-axis morphing can pair Debt with Coil through wrapped field selection.
+
+Protocol 67 adds normalized field 10, Winding. It changes radial and depth winding orders continuously, allowing fractional mismatched seams. Live, future, fossil, aperture, mirror, and extracted geometry share the winding state; full reality snapshots preserve it.
