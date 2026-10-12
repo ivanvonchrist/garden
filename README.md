@@ -65,3 +65,5 @@ Iteration 26 introduces a local ritual grammar. Compose up to eight verbs to tra
 Iteration 27 lets causal sentences be unsaid or echoed. A single pre-sentence reality snapshot restores the latest transformation; echo replays the validated verbs and creates a new reversible sentence. Runtime failure rolls back the partial sentence. Only one undo snapshot and one eight-verb echo are retained.
 
 Iteration 28 gives feeding a persistent appetite: hunger mode stamps up to eight missing circles into the body. Live and future mesh strokes break across holes, SVG specimens preserve their gaps, and whole-reality history stores the missing pieces. Return the eaten pieces heals them without disabling hunger.
+
+Iteration 29 sutures missing pieces with a mercy slider. Wounds contract while a small absence remains, nearby geometry pulls toward the repair, and five visible threads span each hole. The changes affect live/future geometry, extraction, and full-reality history.
