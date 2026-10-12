@@ -21,3 +21,4 @@ footer{flex-wrap:wrap;justify-content:flex-start;gap:4px 22px}footer button{padd
 #ritual-inquiry{position:sticky;top:-20px;z-index:3;background:#100e17;padding:12px 0;border-bottom:1px solid #b78ecc55}#ritual-inquiry label{display:block;font-size:9px;color:#edc5e5;line-height:1.6;margin-bottom:9px}#ritual-search{width:100%;padding:10px;background:#08090e;border:1px solid #b78ecc66;color:#efeedf;font:10px monospace}#catalog-status{font-size:8px;line-height:1.6;color:#aaa}#ritual-tools>[hidden]{display:none!important}
 #shadow-drift{width:100%;accent-color:#b78fde}#shadow-status{font-size:8px;line-height:1.7;color:#c9b3dc}
 #distance-inversion{width:100%;accent-color:#a7e7df}#distance-status{font-size:8px;line-height:1.7;color:#c9b3dc}
+#observation-status{font-size:8px;line-height:1.7;color:#c9b3dc}#withdraw-gaze{font-size:8px;display:block;padding-left:0}

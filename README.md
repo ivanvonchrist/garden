@@ -73,3 +73,5 @@ Iteration 30 makes the ritual cabinet searchable by fragments. All words must ma
 Iteration 31 disowns the creature's shadow: a slider reveals a mirrored, drifting spectral membrane derived from the current body. It respects seam breaks and eaten pieces, remains searchable in the cabinet, and is preserved by complete reality history. SVG extraction continues to capture the underlying creature.
 
 Iteration 32 exchanges near and far through a bounded radial inversion. Nearby folds expand and distant folds contract without a center singularity. Live geometry, future bodies, shadows, swarms, and extracted specimens share the map; complete reality history preserves the slider.
+
+Iteration 33 makes pointer observation constrain time. When enabled, hovering over the body's central region freezes its simulation clock; moving elsewhere releases it. Borrowed projections obey the same constraint. Withdraw the witness provides an explicit alternative. This is pointer interaction, not eye tracking; no sensor permissions are requested.
