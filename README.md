@@ -57,3 +57,5 @@ Iteration 22 extends the time organ from pose history to bounded reality history
 Iteration 23 adds four time laws: forward, reverse, pendulum, and refusal. Borrowed bodies project and repay using the active clock rather than assuming forward time. Full reality snapshots preserve the clock's mode and phase. Reduced-motion and stillness continue to stop automatic motion.
 
 Iteration 24 adds an anatomical chant. Surviving organs choose a three-tone sequence from their horizontal order and vertical positions. Its slow steps follow simulation time, including reversed clocks; erased organs are excluded. Activation explicitly wakes the existing quiet synthesizer, while the sound toggle remains available to mute it. Still scenes can revoice through deliberate ritual clicks.
+
+Iteration 25 veils the exterior while leaving its simulation alive. Move a circular aperture of visibility with the pointer or arrow keys while the veil button is focused. Hidden geometry remains available to extraction and full-reality history; lifting the veil reveals the current body.
