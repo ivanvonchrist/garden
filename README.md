@@ -87,3 +87,5 @@ Iteration 37 rotates organ identities while preserving positions. Grammar, erase
 Iteration 38 fractures the present across the membrane's ribs, with offsets spanning up to 24 seconds. Live bodies, future projections, mirror captures, and extracted geometry share the per-rib clock. Full reality history preserves the fracture strength.
 
 Iteration 39 adds two combined dream worlds: a body assembled from incompatible moments and a shadow older than its owner. Causal grammar gains fracture and unify, allowing rib clocks to split or negotiate a shared present. Eight cosmologies now coexist behind the main dream action.
+
+Iteration 40 ties pairs of organs into anatomical knots. Select two organ buttons while tying is active; selecting an existing pair removes its knot. Up to five bonds tug the outer, projected, and extracted membrane according to organ distance, with a cached harmonic spectrum updated during rearrangement. Knots survive identity exchange and reality history.
