@@ -145,3 +145,5 @@ Protocol 66 exposes future debt as normalized field 9 and a direct Debt slider, 
 Protocol 67 adds normalized field 10, Winding. It changes radial and depth winding orders continuously, allowing fractional mismatched seams. Live, future, fossil, aperture, mirror, and extracted geometry share the winding state; full reality snapshots preserve it.
 
 Protocol 68 adds normalized field 11, Side. Alternating membrane ribs interpolate toward reflected interiors, passing through collapsed bands. Live, future, and extracted geometry share the sidedness projection; full reality snapshots preserve its strength.
+
+Iteration 69: Phase (field 12) rotates ribs by a bounded sinusoidal angle after sidedness. Live geometry, future projections, SVG exports, state fingerprints, history and restoration share this projection. Zero preserves the previous shape.
