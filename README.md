@@ -103,3 +103,5 @@ Iteration 45 coils space with radial spiral gravity. Nearby points rotate more s
 Iteration 46 changes the visible product into a machine-readable protocol. JSON state and numeric operation packets replace the prose interface. window.gardenProtocol exposes schema, read, and execute methods; packets are validated before mutation. Lexical tokens are encoded as code-point arrays. Audio remains explicit. Existing geometric rituals persist behind the numeric protocol.
 
 Protocol 47 adds numeric node operations: 6 relocates a node, 7 toggles an undirected bond, 8 erases a node identity (-1 restores), and 9 selects a clock. Input ranges are published in the schema and validated before mutation. The visible protocol remains JSON-only.
+
+Protocol 48 adds op 10: a nonrecursive composition of 1–8 packets drawn from operations 3, 6, 7, 8, and 9. All components validate before mutation. Intermediate rendering and history capture are suppressed; successful composition records one state, while runtime failure restores the prior reality and history.
