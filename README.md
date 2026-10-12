@@ -53,3 +53,5 @@ Iteration 20 adds four alternate cosmologies accessible from the main scene. Eac
 Iteration 21 introduces unwritten star names: select 2–6 stars in a keyboard-accessible chart. Sequence distances and directions produce a geometry and frequency signature, replacing the creature's current name. Selecting a star again removes it; the oldest selection drops when exceeding six.
 
 Iteration 22 extends the time organ from pose history to bounded reality history. Snapshots now preserve names, transplanted anatomy, mirror doubles, erased organs, breath, future debt, cosmology state, and all spatial distortions. Intentional ritual clicks record history even with reduced motion; scrubbing silently restores laws without spawning feed particles.
+
+Iteration 23 adds four time laws: forward, reverse, pendulum, and refusal. Borrowed bodies project and repay using the active clock rather than assuming forward time. Full reality snapshots preserve the clock's mode and phase. Reduced-motion and stillness continue to stop automatic motion.
