@@ -163,3 +163,5 @@ Iteration 75: Weave (⋕), protocol op 24 with strength 0..1, couples the eight 
 Iteration 76: Evolve (⧝), op 25, opts into two synchronous law-weave steps per simulation second with 35% strength. Pause, history detachment and observation holds stop advancement; manual Step advances it. State exports expose e=[enabled,step], and history restores the accumulator. It begins disabled.
 
 Iteration 77: Weave and autonomous Evolve receive eight bounded offsets from pairs of node positions. Moving nodes, matrix grafts and node recurrence now change the law trajectory itself. The numeric interface remains op 24/25; n in state contains the complete source geometry. Offsets are computed synchronously before each weave.
+
+Iteration 78: Each autonomous Evolve tick feeds its eight resulting law values back into the five nodes through an 8% position blend. Node positions then bias the next tick. Node identities and bonds survive; coordinates remain bounded. Node recurrence can run alongside this loop. Manual Weave continues to affect only laws.
