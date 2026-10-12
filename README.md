@@ -85,3 +85,5 @@ Iteration 36 adds the Nursery of Missing Pieces and A Future Possessed by Its Pa
 Iteration 37 rotates organ identities while preserving positions. Grammar, erased-name ghosts, voting, and the chant follow the exchanged identities. The exchange verb composes with causal sentences. Full reality snapshots now preserve organ names and positions without replacing event-bound organ objects.
 
 Iteration 38 fractures the present across the membrane's ribs, with offsets spanning up to 24 seconds. Live bodies, future projections, mirror captures, and extracted geometry share the per-rib clock. Full reality history preserves the fracture strength.
+
+Iteration 39 adds two combined dream worlds: a body assembled from incompatible moments and a shadow older than its owner. Causal grammar gains fracture and unify, allowing rib clocks to split or negotiate a shared present. Eight cosmologies now coexist behind the main dream action.
