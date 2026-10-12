@@ -91,3 +91,5 @@ Iteration 39 adds two combined dream worlds: a body assembled from incompatible 
 Iteration 40 ties pairs of organs into anatomical knots. Select two organ buttons while tying is active; selecting an existing pair removes its knot. Up to five bonds tug the outer, projected, and extracted membrane according to organ distance, with a cached harmonic spectrum updated during rearrangement. Knots survive identity exchange and reality history.
 
 Iteration 41 adds tie, untie, borrow, and repay to causal grammar. Tying chooses the farthest currently unbound surviving pair; untie releases the latest knot. A ninth cosmology, The Creditor Is Wearing Tomorrow, composes three bonds, future debt, fractured ribs, and a pendulum clock.
+
+Iteration 42 gives the universe a reincarnation ritual. After an in-app explanation, rebirth clears visit-local scars, fossils, history, sentence echoes, and anatomy, then selects a cosmology from a deterministic trace of the departed world. Nothing is sent or stored. Sound mute preferences remain under the separate sound control.
