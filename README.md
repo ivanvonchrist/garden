@@ -137,3 +137,5 @@ Iteration 62 exposes the four geometry clocks directly through one cycling symbo
 Protocol 63 adds op 18 [field, x, y] for bounded two-field composition. The Morph symbol enables canvas dragging to control selected and adjacent fields; arrow keys on the focused symbol offer the same interaction. Pointer updates cap at roughly 30 Hz, Escape exits, and the active field pair is shown with glyphs.
 
 Protocol 64 exposes the visibility lens through a direct symbol and op 19 [enabled, x, y]. Pointer movement or arrows on the focused Lens control reposition the aperture. Hidden geometry continues evolving and remains available to artifact extraction; numeric coordinates validate before mutation.
+
+Protocol 65 exposes complete reality history through a minimal slider dialog and op 20. Nonnegative indices seek existing bounded records without shifting their slots; -1 resumes. Closing with Hold leaves time detached, while Resume releases it. The machine state reports the selected slot as j.
