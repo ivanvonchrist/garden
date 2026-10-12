@@ -139,3 +139,5 @@ Protocol 63 adds op 18 [field, x, y] for bounded two-field composition. The Morp
 Protocol 64 exposes the visibility lens through a direct symbol and op 19 [enabled, x, y]. Pointer movement or arrows on the focused Lens control reposition the aperture. Hidden geometry continues evolving and remains available to artifact extraction; numeric coordinates validate before mutation.
 
 Protocol 65 exposes complete reality history through a minimal slider dialog and op 20. Nonnegative indices seek existing bounded records without shifting their slots; -1 resumes. Closing with Hold leaves time detached, while Resume releases it. The machine state reports the selected slot as j.
+
+Protocol 66 exposes future debt as normalized field 9 and a direct Debt slider, mapping 0–1 to 0–60 seconds. Repay advances the present to its projected body according to the active geometry clock and observation rule. Two-axis morphing can pair Debt with Coil through wrapped field selection.
