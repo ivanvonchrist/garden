@@ -97,3 +97,5 @@ Iteration 42 gives the universe a reincarnation ritual. After an in-app explanat
 Iteration 43 extracts Three Incompatible Witnesses: a single standalone SVG triptych sampling 20 seconds before, the present, and 20 seconds after. Projection follows the active time law and observation constraint, retains all current geometry rituals, and restores simulation state even if export generation fails.
 
 Iteration 44 atomizes space with a lattice slider. Shared projection snaps live/future geometry and exports to bounded grid coordinates, while a capped background chart reveals the permitted distances. Atomize and smooth join causal grammar; complete reality history preserves the lattice.
+
+Iteration 45 coils space with radial spiral gravity. Nearby points rotate more strongly than distant ones while preserving radial distance before later topology and lattice maps. Live bodies, projections, shadows, swarms, and exports share the field. Coil and unwind compose it through causal grammar.

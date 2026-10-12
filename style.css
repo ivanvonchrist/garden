@@ -29,3 +29,4 @@ footer{flex-wrap:wrap;justify-content:flex-start;gap:4px 22px}footer button{padd
 #inner-tie{position:absolute;top:95px;left:50%;transform:translateX(-50%);pointer-events:auto;font-size:8px;color:#d6fc83;white-space:nowrap}
 #funeral{width:90%;max-width:480px;padding:28px;background:#100d18;color:#efeedf;border:1px solid #b78ecc}#funeral::backdrop{background:#050308dd}#funeral h2{font:42px/.95 "Instrument Serif",Georgia,serif}#funeral>p{font-size:10px;color:#aaa;line-height:1.8}
 #space-grain{width:100%;accent-color:#d6fc83}#grain-status{font-size:8px;line-height:1.7;color:#c9b3dc}
+#spiral-gravity{width:100%;accent-color:#a7e7df}#spiral-status{font-size:8px;line-height:1.7;color:#c9b3dc}
