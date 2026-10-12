@@ -157,3 +157,5 @@ Iteration 72: Mutate (⊛) derives a seed from the current structural fingerprin
 Iteration 73: Counter (⇌), protocol op 22, complements the eight mutation fields in one atomic composition. Applying it twice restores their values within floating-point precision. Clock, sound, node bindings and other fields remain independent.
 
 Iteration 74: Rotate (⟳) moves the eight mutation values between their laws without changing their numeric multiset. Protocol op 23 accepts +1 or -1 for opposite directions. Eight rotations or a forward/reverse pair recover the original vector exactly.
+
+Iteration 75: Weave (⋕), protocol op 24 with strength 0..1, couples the eight mutation fields in a ring. Each synchronous step applies a shifted logistic map to a weighted neighborhood, then blends by strength. Repeated gestures produce bounded nonlinear trajectories; one atomic history sample records each step.
