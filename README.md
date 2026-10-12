@@ -43,3 +43,5 @@ Iteration 15 adds borrowed breath. Hold the ritual button with pointer, Space, o
 Iteration 16 extracts a specimen as a standalone SVG download. Its frozen membrane captures the current laws, names, anatomy, breath, mirror blending, division, negative sun, and seam topology. Aperture mode exports its outline. Export is generated locally without uploads and contains no forbidden-word text.
 
 Iteration 17 creates paired mouths. Membrane points entering either circular region emerge inverted at the other, with seam-aware pen breaks. The effect also applies to future bodies and SVG extraction. Place mouths by clicking, or move each with focused arrow controls; Escape cancels placement and breaking the pact restores ordinary mapping.
+
+Iteration 18 lets identity resign: a slider dissolves the visible membrane into 180 deterministic, orbiting witnesses. Their home positions follow current geometry, including seams and eclipse mouths; they scatter without adding independent timers. Return the slider to zero to reassemble the creature. SVG extraction retains the underlying membrane.
