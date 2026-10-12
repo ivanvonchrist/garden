@@ -77,3 +77,5 @@ Iteration 32 exchanges near and far through a bounded radial inversion. Nearby f
 Iteration 33 makes pointer observation constrain time. When enabled, hovering over the body's central region freezes its simulation clock; moving elsewhere releases it. Borrowed projections obey the same constraint. Withdraw the witness provides an explicit alternative. This is pointer interaction, not eye tracking; no sensor permissions are requested.
 
 Iteration 34 invites the latest fossil to possess its descendant. An ancestry slider blends live, projected, and extracted membrane coordinates toward the normalized frozen outline. If no fossil exists, inviting captures the present silhouette. Returning the slider to zero releases the body; full reality snapshots preserve the ancestor.
+
+Iteration 35 expands causal grammar with devour, suture, disown, possess, invert, nearfar, observe, and withdraw. Three selectable examples fill the sentence without executing it. Devouring places bounded holes along a deterministic orbit; unsaying now restores feeding counts and particles as well as the full reality.
